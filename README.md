@@ -25,4 +25,4 @@
 <br />
 
 ## Stats
-<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=adityasharma3&include_all_commits=true&theme=tokyonight" />
+<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=adityasharma3&include_all_commits=true&theme=tokyonight" />  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma3&layout=compact&theme=dark"/>
