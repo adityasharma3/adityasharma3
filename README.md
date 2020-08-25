@@ -25,4 +25,4 @@
 <br />
 
 ## Stats
-<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=adityasharma3&theme=gruvbox&show_icons=true" />
+<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=adityasharma3&include_all_commits=true&theme=tokyonight" />
