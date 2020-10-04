@@ -1,9 +1,7 @@
 ## Hi 👋, I'm Aditya Sharma
 
 - I'm a student intersted in Web Development using Django, Flask and React.
-- Currently working on being an active open-source contributor.
 - Currently a sophomore at Manipal University Jaipur.
-- Also aiming to get familiarized with React and broadly other JavaScript frameworks.
 
 ## Contact me at:
 [![Linkedin Badge](https://img.shields.io/badge/-adityyasharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityyasharma/)](https://www.linkedin.com/in/adityyasharma/)  [![Gmail Badge](https://img.shields.io/badge/-aditya.sharma9301@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aditya.sharma9301@gmail.com)](mailto:aditya.sharma9301@gmail.com)  
