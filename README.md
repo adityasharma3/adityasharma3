@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Aditya Sharma
 
-- I'm a student intersted in Web Development using Django and Flask.
+- I'm a student intersted in Web Development.
 - Currently a sophomore at Manipal University Jaipur.
 
 ## Contact me at:
