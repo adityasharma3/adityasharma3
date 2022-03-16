@@ -27,5 +27,6 @@
 
  
   <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma3&layout=compact&theme=dark"/>
+  <br />
   <img align = "right" src= "https://github-readme-streak-stats.herokuapp.com/?user=adityasharma3&theme=dark" />
 
