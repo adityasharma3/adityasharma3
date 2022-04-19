@@ -10,7 +10,7 @@
 ## Stats
 
  
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma3&layout=compact&theme=dark"/>
+<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharma3&layout=compact&theme=dark"/> -->
   <br />
   <img src= "https://github-readme-streak-stats.herokuapp.com/?user=adityasharma3&theme=dark" />
 
